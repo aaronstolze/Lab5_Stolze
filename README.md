@@ -13,4 +13,5 @@ The code above would load a value of 8 into the accumulator, add 1 to this value
 
 ![alt text](https://raw.githubusercontent.com/aaronstolze/Lab5_Stolze/master/AnnotatedWaveform.png "ALU Waveform")
 
-The code was then implemented onto the NEXYS2 board.  As seen in the linked video below, the board counts from 9 to F.  
+The code was then implemented onto the NEXYS2 board.  As seen in the linked video below, the board counts from 9 to F.
+https://www.youtube.com/watch?v=5sR2Jg-be3I 
